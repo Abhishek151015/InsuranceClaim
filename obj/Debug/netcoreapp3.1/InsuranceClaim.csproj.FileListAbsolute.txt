@@ -1,0 +1,341 @@
+F:\Project\InsuranceClaim\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Project\InsuranceClaim\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Project\InsuranceClaim\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\Project\InsuranceClaim\bin\Debug\netcoreapp3.1\InsuranceClaim.exe
+F:\Project\InsuranceClaim\obj\Debug\netcoreapp3.1\InsuranceClaim.csprojAssemblyReference.cache
+F:\Project\InsuranceClaim\obj\Debug\netcoreapp3.1\InsuranceClaim.RazorAssemblyInfo.cache
+F:\Project\InsuranceClaim\obj\Debug\netcoreapp3.1\InsuranceClaim.RazorAssemblyInfo.cs
+F:\Project\InsuranceClaim\obj\Debug\netcoreapp3.1\InsuranceClaim.AssemblyInfoInputs.cache
+F:\Project\InsuranceClaim\obj\Debug\netcoreapp3.1\InsuranceClaim.AssemblyInfo.cs
+F:\Project\InsuranceClaim\obj\Debug\netcoreapp3.1\InsuranceClaim.TagHelpers.input.cache
+F:\Project\InsuranceClaim\obj\Debug\netcoreapp3.1\InsuranceClaim.TagHelpers.output.cache
+F:\Project\InsuranceClaim\obj\Debug\netcoreapp3.1\InsuranceClaim.RazorCoreGenerate.cache
+F:\Project\InsuranceClaim\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\Project\InsuranceClaim\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\Project\InsuranceClaim\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\Project\InsuranceClaim\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Project\InsuranceClaim\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\Project\InsuranceClaim\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Project\InsuranceClaim\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Project\InsuranceClaim\obj\Debug\netcoreapp3.1\InsuranceClaim.RazorTargetAssemblyInfo.cache
+F:\Project\InsuranceClaim\obj\Debug\netcoreapp3.1\InsuranceClaim.RazorTargetAssemblyInfo.cs
+F:\Project\InsuranceClaim\obj\Debug\netcoreapp3.1\staticwebassets\InsuranceClaim.StaticWebAssets.Manifest.cache
+F:\Project\InsuranceClaim\obj\Debug\netcoreapp3.1\staticwebassets\InsuranceClaim.StaticWebAssets.xml
+F:\Project\InsuranceClaim\bin\Debug\netcoreapp3.1\InsuranceClaim.deps.json
+F:\Project\InsuranceClaim\bin\Debug\netcoreapp3.1\InsuranceClaim.runtimeconfig.json
+F:\Project\InsuranceClaim\bin\Debug\netcoreapp3.1\InsuranceClaim.runtimeconfig.dev.json
+F:\Project\InsuranceClaim\bin\Debug\netcoreapp3.1\InsuranceClaim.dll
+F:\Project\InsuranceClaim\bin\Debug\netcoreapp3.1\InsuranceClaim.pdb
+F:\Project\InsuranceClaim\bin\Debug\netcoreapp3.1\InsuranceClaim.Views.dll
+F:\Project\InsuranceClaim\bin\Debug\netcoreapp3.1\InsuranceClaim.Views.pdb
+F:\Project\InsuranceClaim\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\Project\InsuranceClaim\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\Project\InsuranceClaim\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\Project\InsuranceClaim\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Project\InsuranceClaim\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\Project\InsuranceClaim\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Project\InsuranceClaim\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\Project\InsuranceClaim\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\Project\InsuranceClaim\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\Project\InsuranceClaim\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\Project\InsuranceClaim\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\Project\InsuranceClaim\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\Project\InsuranceClaim\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\Project\InsuranceClaim\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\Project\InsuranceClaim\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\Project\InsuranceClaim\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\Project\InsuranceClaim\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\Project\InsuranceClaim\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\Project\InsuranceClaim\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\Project\InsuranceClaim\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\Project\InsuranceClaim\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\Project\InsuranceClaim\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Project\InsuranceClaim\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\Project\InsuranceClaim\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\Project\InsuranceClaim\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Project\InsuranceClaim\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\Project\InsuranceClaim\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Project\InsuranceClaim\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Project\InsuranceClaim\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Project\InsuranceClaim\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Project\InsuranceClaim\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Project\InsuranceClaim\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Project\InsuranceClaim\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Project\InsuranceClaim\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Project\InsuranceClaim\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Project\InsuranceClaim\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Project\InsuranceClaim\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Project\InsuranceClaim\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Project\InsuranceClaim\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Project\InsuranceClaim\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Project\InsuranceClaim\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Project\InsuranceClaim\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Project\InsuranceClaim\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Project\InsuranceClaim\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Project\InsuranceClaim\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Project\InsuranceClaim\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Project\InsuranceClaim\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Project\InsuranceClaim\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Project\InsuranceClaim\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Project\InsuranceClaim\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Project\InsuranceClaim\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Project\InsuranceClaim\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Project\InsuranceClaim\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Project\InsuranceClaim\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Project\InsuranceClaim\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Project\InsuranceClaim\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Project\InsuranceClaim\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Project\InsuranceClaim\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Project\InsuranceClaim\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Project\InsuranceClaim\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Project\InsuranceClaim\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Project\InsuranceClaim\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Project\InsuranceClaim\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Project\InsuranceClaim\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Project\InsuranceClaim\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Project\InsuranceClaim\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Project\InsuranceClaim\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Project\InsuranceClaim\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Project\InsuranceClaim\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Project\InsuranceClaim\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Project\InsuranceClaim\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Project\InsuranceClaim\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Project\InsuranceClaim\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Project\InsuranceClaim\obj\Debug\netcoreapp3.1\InsuranceClaim.Views.pdb
+F:\Project\InsuranceClaim\obj\Debug\netcoreapp3.1\InsuranceClaim.csproj.CopyComplete
+F:\Project\InsuranceClaim\obj\Debug\netcoreapp3.1\InsuranceClaim.dll
+F:\Project\InsuranceClaim\obj\Debug\netcoreapp3.1\InsuranceClaim.pdb
+F:\Project\InsuranceClaim\obj\Debug\netcoreapp3.1\InsuranceClaim.genruntimeconfig.cache
+F:\Project\InsuranceClaim\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+F:\Project\InsuranceClaim\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+F:\Project\InsuranceClaim\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Project\InsuranceClaim\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Project\InsuranceClaim\obj\Debug\netcoreapp3.1\InsuranceClaim.csproj.CoreCompileInputs.cache
+F:\Project\InsuranceClaim\obj\Debug\netcoreapp3.1\InsuranceClaim.MvcApplicationPartsAssemblyInfo.cs
+F:\Project\InsuranceClaim\obj\Debug\netcoreapp3.1\InsuranceClaim.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\bin\Debug\netcoreapp3.1\InsuranceClaim.exe
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\bin\Debug\netcoreapp3.1\InsuranceClaim.deps.json
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\bin\Debug\netcoreapp3.1\InsuranceClaim.runtimeconfig.json
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\bin\Debug\netcoreapp3.1\InsuranceClaim.runtimeconfig.dev.json
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\bin\Debug\netcoreapp3.1\InsuranceClaim.dll
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\bin\Debug\netcoreapp3.1\InsuranceClaim.pdb
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\bin\Debug\netcoreapp3.1\InsuranceClaim.Views.dll
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\bin\Debug\netcoreapp3.1\InsuranceClaim.Views.pdb
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\obj\Debug\netcoreapp3.1\InsuranceClaim.csprojAssemblyReference.cache
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\obj\Debug\netcoreapp3.1\InsuranceClaim.AssemblyInfoInputs.cache
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\obj\Debug\netcoreapp3.1\InsuranceClaim.AssemblyInfo.cs
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\obj\Debug\netcoreapp3.1\InsuranceClaim.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\obj\Debug\netcoreapp3.1\InsuranceClaim.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\obj\Debug\netcoreapp3.1\InsuranceClaim.RazorAssemblyInfo.cache
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\obj\Debug\netcoreapp3.1\InsuranceClaim.RazorAssemblyInfo.cs
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\obj\Debug\netcoreapp3.1\InsuranceClaim.TagHelpers.input.cache
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\obj\Debug\netcoreapp3.1\InsuranceClaim.TagHelpers.output.cache
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\obj\Debug\netcoreapp3.1\InsuranceClaim.RazorCoreGenerate.cache
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\obj\Debug\netcoreapp3.1\InsuranceClaim.RazorTargetAssemblyInfo.cache
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\obj\Debug\netcoreapp3.1\InsuranceClaim.RazorTargetAssemblyInfo.cs
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\obj\Debug\netcoreapp3.1\InsuranceClaim.Views.pdb
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\obj\Debug\netcoreapp3.1\InsuranceClaim.csproj.CopyComplete
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\obj\Debug\netcoreapp3.1\staticwebassets\InsuranceClaim.StaticWebAssets.Manifest.cache
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\obj\Debug\netcoreapp3.1\staticwebassets\InsuranceClaim.StaticWebAssets.xml
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\obj\Debug\netcoreapp3.1\InsuranceClaim.dll
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\obj\Debug\netcoreapp3.1\InsuranceClaim.pdb
+C:\Users\Sarika Kumari\source\repos\InsuranceClaim\obj\Debug\netcoreapp3.1\InsuranceClaim.genruntimeconfig.cache
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\appsettings.json
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\InsuranceClaim.exe
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\InsuranceClaim.deps.json
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\InsuranceClaim.runtimeconfig.json
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\InsuranceClaim.runtimeconfig.dev.json
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\InsuranceClaim.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\InsuranceClaim.pdb
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\InsuranceClaim.Views.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\InsuranceClaim.Views.pdb
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IPTreatmentMFRP\InsuranceClaim\obj\Debug\netcoreapp3.1\InsuranceClaim.csprojAssemblyReference.cache
+F:\IPTreatmentMFRP\InsuranceClaim\obj\Debug\netcoreapp3.1\InsuranceClaim.RazorAssemblyInfo.cache
+F:\IPTreatmentMFRP\InsuranceClaim\obj\Debug\netcoreapp3.1\InsuranceClaim.RazorAssemblyInfo.cs
+F:\IPTreatmentMFRP\InsuranceClaim\obj\Debug\netcoreapp3.1\InsuranceClaim.AssemblyInfoInputs.cache
+F:\IPTreatmentMFRP\InsuranceClaim\obj\Debug\netcoreapp3.1\InsuranceClaim.AssemblyInfo.cs
+F:\IPTreatmentMFRP\InsuranceClaim\obj\Debug\netcoreapp3.1\InsuranceClaim.TagHelpers.input.cache
+F:\IPTreatmentMFRP\InsuranceClaim\obj\Debug\netcoreapp3.1\InsuranceClaim.TagHelpers.output.cache
+F:\IPTreatmentMFRP\InsuranceClaim\obj\Debug\netcoreapp3.1\InsuranceClaim.RazorCoreGenerate.cache
+F:\IPTreatmentMFRP\InsuranceClaim\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\IPTreatmentMFRP\InsuranceClaim\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\IPTreatmentMFRP\InsuranceClaim\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\IPTreatmentMFRP\InsuranceClaim\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\IPTreatmentMFRP\InsuranceClaim\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\IPTreatmentMFRP\InsuranceClaim\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\IPTreatmentMFRP\InsuranceClaim\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\IPTreatmentMFRP\InsuranceClaim\obj\Debug\netcoreapp3.1\InsuranceClaim.RazorTargetAssemblyInfo.cache
+F:\IPTreatmentMFRP\InsuranceClaim\obj\Debug\netcoreapp3.1\InsuranceClaim.RazorTargetAssemblyInfo.cs
+F:\IPTreatmentMFRP\InsuranceClaim\obj\Debug\netcoreapp3.1\InsuranceClaim.Views.pdb
+F:\IPTreatmentMFRP\InsuranceClaim\obj\Debug\netcoreapp3.1\InsuranceClaim.csproj.CopyComplete
+F:\IPTreatmentMFRP\InsuranceClaim\obj\Debug\netcoreapp3.1\staticwebassets\InsuranceClaim.StaticWebAssets.Manifest.cache
+F:\IPTreatmentMFRP\InsuranceClaim\obj\Debug\netcoreapp3.1\staticwebassets\InsuranceClaim.StaticWebAssets.xml
+F:\IPTreatmentMFRP\InsuranceClaim\obj\Debug\netcoreapp3.1\InsuranceClaim.dll
+F:\IPTreatmentMFRP\InsuranceClaim\obj\Debug\netcoreapp3.1\InsuranceClaim.pdb
+F:\IPTreatmentMFRP\InsuranceClaim\obj\Debug\netcoreapp3.1\InsuranceClaim.genruntimeconfig.cache
