@@ -16,6 +16,12 @@
     <PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="5.5.1" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="insuranceclaimdepl.yaml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 
 
 </Project>

@@ -315,7 +315,6 @@ F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnaly
 F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-F:\IPTreatmentMFRP\InsuranceClaim\obj\Debug\netcoreapp3.1\InsuranceClaim.csprojAssemblyReference.cache
 F:\IPTreatmentMFRP\InsuranceClaim\obj\Debug\netcoreapp3.1\InsuranceClaim.RazorAssemblyInfo.cache
 F:\IPTreatmentMFRP\InsuranceClaim\obj\Debug\netcoreapp3.1\InsuranceClaim.RazorAssemblyInfo.cs
 F:\IPTreatmentMFRP\InsuranceClaim\obj\Debug\netcoreapp3.1\InsuranceClaim.AssemblyInfoInputs.cache
@@ -339,3 +338,19 @@ F:\IPTreatmentMFRP\InsuranceClaim\obj\Debug\netcoreapp3.1\staticwebassets\Insura
 F:\IPTreatmentMFRP\InsuranceClaim\obj\Debug\netcoreapp3.1\InsuranceClaim.dll
 F:\IPTreatmentMFRP\InsuranceClaim\obj\Debug\netcoreapp3.1\InsuranceClaim.pdb
 F:\IPTreatmentMFRP\InsuranceClaim\obj\Debug\netcoreapp3.1\InsuranceClaim.genruntimeconfig.cache
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\log4net.config
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\insuranceclaimdepl.yaml
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\log4net.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\IPTreatmentMFRP\InsuranceClaim\obj\Debug\netcoreapp3.1\InsuranceClaim.csproj.CoreCompileInputs.cache
+F:\IPTreatmentMFRP\InsuranceClaim\obj\Debug\netcoreapp3.1\InsuranceClaim.MvcApplicationPartsAssemblyInfo.cs
+F:\IPTreatmentMFRP\InsuranceClaim\obj\Debug\netcoreapp3.1\InsuranceClaim.MvcApplicationPartsAssemblyInfo.cache

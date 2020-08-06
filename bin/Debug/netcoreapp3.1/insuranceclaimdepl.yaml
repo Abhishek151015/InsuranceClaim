@@ -1,0 +1,33 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: insuranceclaimdepl
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: InsuranceClaim
+  template:
+    metadata:
+      labels:
+        app: InsuranceClaim
+    spec:
+      containers:
+      - name: insuranceclaim
+        image: iptreatmentmanagementcr.azurecr.io/insuranceclaimrepos:latest
+        ports:
+        - containerPort: 8080
+      imagePullSecrets:
+      - name: insuranceclaimsn
+
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: insuranceclaim
+spec:
+  type: LoadBalancer
+  ports:
+  - port: 80
+  selector:
+    app: InsuranceClaim
