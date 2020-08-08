@@ -351,6 +351,13 @@ F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\Microsoft.Extensions.L
 F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
 F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
 F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
 F:\IPTreatmentMFRP\InsuranceClaim\obj\Debug\netcoreapp3.1\InsuranceClaim.csproj.CoreCompileInputs.cache
 F:\IPTreatmentMFRP\InsuranceClaim\obj\Debug\netcoreapp3.1\InsuranceClaim.MvcApplicationPartsAssemblyInfo.cs
 F:\IPTreatmentMFRP\InsuranceClaim\obj\Debug\netcoreapp3.1\InsuranceClaim.MvcApplicationPartsAssemblyInfo.cache
