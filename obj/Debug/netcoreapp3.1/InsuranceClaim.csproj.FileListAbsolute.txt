@@ -361,3 +361,4 @@ F:\IPTreatmentMFRP\InsuranceClaim\bin\Debug\netcoreapp3.1\System.IdentityModel.T
 F:\IPTreatmentMFRP\InsuranceClaim\obj\Debug\netcoreapp3.1\InsuranceClaim.csproj.CoreCompileInputs.cache
 F:\IPTreatmentMFRP\InsuranceClaim\obj\Debug\netcoreapp3.1\InsuranceClaim.MvcApplicationPartsAssemblyInfo.cs
 F:\IPTreatmentMFRP\InsuranceClaim\obj\Debug\netcoreapp3.1\InsuranceClaim.MvcApplicationPartsAssemblyInfo.cache
+F:\IPTreatmentMFRP\InsuranceClaim\obj\Debug\netcoreapp3.1\InsuranceClaim.csprojAssemblyReference.cache
